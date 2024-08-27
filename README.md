@@ -7,7 +7,7 @@
 - 🤔 I’m looking for help with understanding the deployment of machine learning models on cloud platforms.
 - 💬 Ask me about web development, Python programming, or anything related to technology.
 - 📫 How to reach me: You can email me at [nguyentv2402@gmail.com] or connect with me on LinkedIn.
-- 😄 Pronouns: They/Them
+- 😄 Pronouns: Jen
 - ⚡ Fun fact: I can code in three different languages (Python, JavaScript, and C++) and I’m passionate about contributing to community-driven projects!
 
 
