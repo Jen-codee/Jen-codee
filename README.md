@@ -25,6 +25,9 @@ Here are some ideas to get you started:
     <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=Jen-codee&show_icons=true&theme=react&border_color=61dafb&hide_border=true&rank_icon=github&include_all_commits=true" />
   </a>
 </div>
+<br>
+<br>
+<br>
 
 
 
